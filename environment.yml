@@ -1,0 +1,11 @@
+name: aoc-2024
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - ipykernel
+  - black
+  - pandas
+  - openpyxl
+prefix: /opt/anaconda3/envs/aoc-2024
